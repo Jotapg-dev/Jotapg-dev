@@ -10,11 +10,4 @@
 
 ###
 
-<div >
-		<tr>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
-		</tr>
-</div>
-
 [![My Skills](https://skillicons.dev/icons?i=js,python,git)](https://skillicons.dev)
